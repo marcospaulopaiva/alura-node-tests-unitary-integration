@@ -1,0 +1,25 @@
+{
+  "name": "alura-node-tests-unitary-integration",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\" style=\"background-color:#3b0f81\">  <p>Alura</p> <p>Curso de Node.js: testes unitários e de integração </p> <a href=\"https://cursos.alura.com.br/course/nodejs-testes-unitarios-integracao\"> <img src=\"https://www.alura.com.br/assets/api/cursos/nodejs-testes-unitarios-integracao.svg\"  alt=\"#\" width=\"150\" height=\"150\"> </a>  </h1> <p align=\"center\"> <img loading=\"lazy\" src=\"http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge\"/> </p> <img src=\"https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png\" min-width=\"400px\" max-width=\"400px\" width=\"400px\" align=\"right\"> <p align=\"left\">    <strong>Faça esse curso de Node.js e:</strong></br>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcospaulopaiva/alura-node-tests-unitary-integration.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcospaulopaiva/alura-node-tests-unitary-integration/issues"
+  },
+  "homepage": "https://github.com/marcospaulopaiva/alura-node-tests-unitary-integration#readme",
+  "devDependencies": {
+    "eslint": "^8.56.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.29.1"
+  }
+}
