@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1704936925287" clover="3.2.0">
+  <project timestamp="1704936925287" name="All files">
+    <metrics statements="22" coveredstatements="9" conditionals="8" coveredconditionals="6" methods="10" coveredmethods="1" elements="40" coveredelements="16" complexity="0" loc="22" ncloc="22" packages="2" files="2" classes="2"/>
+    <package name="db">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="dbconfig.js" path="/home/marcospaulo/alura/alura-node-tests-unitary-integration/src/db/dbconfig.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="models">
+      <metrics statements="19" coveredstatements="6" conditionals="8" coveredconditionals="6" methods="10" coveredmethods="1"/>
+      <file name="editora.js" path="/home/marcospaulo/alura/alura-node-tests-unitary-integration/src/models/editora.js">
+        <metrics statements="19" coveredstatements="6" conditionals="8" coveredconditionals="6" methods="10" coveredmethods="1"/>
+        <line num="15" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="16" count="2" type="stmt"/>
+        <line num="17" count="2" type="stmt"/>
+        <line num="18" count="2" type="stmt"/>
+        <line num="19" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="20" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="33" count="0" type="stmt"/>
+        <line num="34" count="0" type="stmt"/>
+        <line num="36" count="0" type="stmt"/>
+        <line num="41" count="0" type="stmt"/>
+        <line num="45" count="0" type="stmt"/>
+        <line num="50" count="0" type="stmt"/>
+        <line num="59" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="60" count="0" type="stmt"/>
+        <line num="62" count="0" type="stmt"/>
+        <line num="66" count="0" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
